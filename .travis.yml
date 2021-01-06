@@ -17,6 +17,8 @@ branches:
   only:
   - gh-pages     # test the gh-pages branch
   - /page-(.*)/ # test every branch which starts with "page-"
+  - master
+
 
 addons:
   apt:
