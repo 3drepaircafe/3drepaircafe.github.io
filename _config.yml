@@ -1,8 +1,8 @@
 # Site/SEO settings
 email: tudo@poste.de
 baseurl: ""
-permalink: /:year/:month/:day/:title/
 google_analytics: 
+future: true
 
 name: TUDo Makerspace Berlin
 title: The TUDo Makerspace at Technische Universtaet Berlin
